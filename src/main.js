@@ -4,6 +4,9 @@ import App from './App.vue'
 Vue.config.productionTip = true
 Vue.config.productionTip = true
 Vue.config.productionTip = true
+Vue.config.productionTip = true
+Vue.config.productionTip = true
+Vue.config.productionTip = true
 
 Vue.config.productionTip = true
 Vue.config.productionTip = true
