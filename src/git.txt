@@ -1,0 +1,9 @@
+git reset 移动分支
+git reset --hard|soft commitId
+
+仓库区 // git仓库里面的，持久化的
+暂存区
+工作区 // 当前展示的
+
+--hard 移动当前分支，用git仓库里面的代码，覆盖工作区的代码
+--soft 移动当前分支，不要用git仓库里面的代码，覆盖工作区的代码
