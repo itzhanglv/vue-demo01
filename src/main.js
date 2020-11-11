@@ -23,6 +23,8 @@ Vue.config.productionTip = false
 Vue.config.productionTip = false
 Vue.config.productionTip = false
 
+console.log('haha')
+
 
 new Vue({
   render: h => h(App),
