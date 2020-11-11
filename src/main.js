@@ -26,6 +26,8 @@ Vue.config.productionTip = false
 Vue.config.productionTip = false
 Vue.config.productionTip = false
 Vue.config.productionTip = false
+Vue.config.productionTip = false
+Vue.config.productionTip = false
 
 console.log('haha')
 
